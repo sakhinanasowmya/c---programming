@@ -1573,7 +1573,6 @@ int main() {
 }
 
 
-QUESTION 60:
 
 
 
